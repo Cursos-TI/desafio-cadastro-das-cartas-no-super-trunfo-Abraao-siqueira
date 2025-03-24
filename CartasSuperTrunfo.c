@@ -20,7 +20,7 @@ int main() {
     printf("Digite a primeira letra de seu Estado:\n");
     scanf(" %c", &estado1);
     printf("Digite o código de 01 a 04:\n");
-    scanf("%s", &codigo1);
+    scanf("%2s", &codigo1);
     printf("Digite o nome de sua cidade:\n");
     scanf("%19s", &cidade1);
     printf("Digite a população:\n");
